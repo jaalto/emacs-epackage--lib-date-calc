@@ -6,7 +6,8 @@ Status: unmaintained
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream: Doug Alcorn <doug@lathi.net>
+Upstream: Doug Alcorn <dougalcorn@gmail.com>
+X-Upstream: (Secondary) <doug@lathi.net>
 Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://www.emacswiki.org/emacs/download/date-calc.el
