@@ -1,0 +1,20 @@
+Package: lib-date-calc
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: unmaintained
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Doug Alcorn <doug@lathi.net>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/emacs/download/date-calc.el
+Vcs-Browser:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/DateCalc
+Commentary:
+Description: library of date calculation and parsing functions
+ Something like Perl Date::Calc module implemented in Emacs Lisp
+ .
+ Note YYYY-MM-DD the code hasn't been touched since 2003.
