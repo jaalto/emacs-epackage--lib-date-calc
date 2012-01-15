@@ -48,4 +48,4 @@
 (autoload 'date-calc-today-and-now              "date-calc" "" nil)
 (autoload 'date-calc-this-year                  "date-calc" "" nil)
 (autoload 'date-calc-mktime                     "date-calc" "" nil)
-(provide 'lib-date-calc-epkg-autoloads)
+(provide 'lib-date-calc-epackage-autoloads)
